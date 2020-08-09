@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS",sans-serif;
+    margin-bottom: 200px;
+}
+h2{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+}
+section{
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+input{
+    outline: none;
+    font-size: 18px;
+}
+#word-count{
+    color: red;
+    font-size: 30px;
+}
+textarea{
+    font-size: 18px;
+}
+select{
+    font-size: 18px;
+    height: 35px;
+    outline: none;
+    border-radius: 5px;
+}

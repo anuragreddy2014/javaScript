@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, sans-serif;
+    background: white url("../img/nature_path.jpg") no-repeat fixed top;
+}
+section{
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+}
+.watch-article{
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.5);
+}
+h2{
+    font-size: 35px;
+    font-family:"Old English Text MT",sans-serif;
+}
